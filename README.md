@@ -1,5 +1,5 @@
 # CourseraGit
 Repo for Coursera Git lab
 
-I am editing the README file. Adding some more details about the project description.
+Note: this was the original files created. When doing the timed assemsent some files were changed to what is seen here.
 
